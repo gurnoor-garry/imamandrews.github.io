@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/imamandrews
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://imamandrews.github.io
+  * I am imamandrews (https://keybase.io/imamandrews) on keybase.
+  * I have a public key ASAVOwL2P6dGaf78MwWRWK2Kpi1601R5NSbuvaDeobW6Xwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120153b02f63fa74669fefc33059158ad8aa62d7ad354793526eebda0dea1b5ba5f0a",
+      "host": "keybase.io",
+      "kid": "0120153b02f63fa74669fefc33059158ad8aa62d7ad354793526eebda0dea1b5ba5f0a",
+      "uid": "1e58e21bb4520af8a3e4c9c83eb68b19",
+      "username": "imamandrews"
+    },
+    "merkle_root": {
+      "ctime": 1603170479,
+      "hash": "0006bd5b857c03d57491bf26685eabca7f150dcad6314db2154c6cc029874f8fe29416ddf302fe4eab5e59d1e70b51dc4248e8f1eb385cefd1b8353cc249c3c7",
+      "hash_meta": "814942a1a9bec18ec3ac262794d068bcd338a669f4dc903b0eae4995a3a8f9e9",
+      "seqno": 17876082
+    },
+    "service": {
+      "entropy": "EqnTLNquhobj5gpMhf5dRXVm",
+      "hostname": "imamandrews.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.5.0"
+  },
+  "ctime": 1603170518,
+  "expire_in": 504576000,
+  "prev": "1b30d4f6c786a267caf39b79077f6ec0beffd3d0b98954098599f82261cc38e0",
+  "seqno": 9,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgFTsC9j+nRmn+/DMFkVitiqYtetNUeTUm7r2g3qG1ul8Kp3BheWxvYWTESpcCCcQgGzDU9seGomfK85t5B39uwL7/09C5iVQJhZn4ImHMOODEINw8dLpavGclDTmXblQP0ce20L0n7wbi2aOYbmzXdpdIAgHCo3NpZ8RAA56nlDPL4t3vp4nlWrxWc4GtO7kWXr++lNTWMEEkA2IADqolIl+UBfp1Is43aFue0czjvDmdaizcrUV0zXkiCKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIMW4lMQvcBhY/MV2InfV2n9ltT4j/4b5qX/YaN31JZtyo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/imamandrews
+
+==================================================================
