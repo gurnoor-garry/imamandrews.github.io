@@ -100,7 +100,7 @@ time in traffic means more time
 
 26
 00:01:10,530 --> 00:01:17,728
-where you want to be authorised by
+where you want to be Not authorised by
 
 27
 00:01:16,500 --> 00:01:19,939
