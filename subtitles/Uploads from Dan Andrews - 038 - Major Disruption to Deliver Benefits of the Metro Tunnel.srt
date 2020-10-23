@@ -1,0 +1,54 @@
+1
+00:00:04,680 --> 00:00:11,680
+NADINE: We're building a rail tunnel. It will have
+five stations and about 9 kilometres of rail tunnel.
+
+2
+00:00:11,680 --> 00:00:16,160
+PAUL: The reason for the tunneling is mainly
+because we are in a quite a heavily urbanised
+
+3
+00:00:16,160 --> 00:00:21,940
+area and tunneling avoids disruption to the
+roads and the surface infrastructure. A TPM
+
+4
+00:00:21,940 --> 00:00:27,820
+– or a tunnel boring machine – is designed
+to respond to the geotechnical conditions
+
+5
+00:00:27,820 --> 00:00:31,810
+that are below the ground for the tunneling,
+whether it's rock, whether it's soil, what
+
+6
+00:00:31,810 --> 00:00:36,770
+the groundwater conditions are, where the
+groundwater table is, is the rock very hard,
+
+7
+00:00:36,770 --> 00:00:38,470
+is the ground very soft.
+
+8
+00:00:38,860 --> 00:00:42,320
+Typically, there
+are two ways of launching a tunnel boring
+
+9
+00:00:42,320 --> 00:00:47,190
+machine – either through a portal or through
+a shaft. For this project, we're planning
+
+10
+00:00:47,190 --> 00:00:53,570
+to use shafts and so you excavate a large
+shaft, and then you lower the TBM in segments
+
+11
+00:00:53,570 --> 00:00:56,850
+and assemble it underground to form the full
+machine.
+
